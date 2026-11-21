@@ -1,0 +1,12 @@
+# 本地构建中间产物（含参考书提取文本，不公开）
+.build/
+
+# WorkBuddy 工作区元数据与日志
+.workbuddy/
+
+# 系统与编辑器文件
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
